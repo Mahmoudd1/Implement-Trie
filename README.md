@@ -3,7 +3,7 @@
 ## trie
 A Trie is a tree-like data structure used to efficiently store and search for strings. The key feature of a Trie is that it allows for fast prefix matching. Trie implementation problem typically involves building and searching a Trie data structure.
 
-##example 
+## example 
 Given a list of words, implement a Trie data structure that allows for fast searching of words by their prefix.
 to solve this problem, you would start by defining a TrieNode class, which represents a node in the Trie. Each node contains a boolean flag to indicate whether it represents the end of a word, a HashMap that maps characters to child nodes, and a count variable to keep track of the number of times a particular word appears in the list.
 
