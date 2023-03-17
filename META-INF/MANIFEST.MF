@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Construct_binary_tree_from_inorder_and_postorder_traversal
+Bundle-SymbolicName: Construct_binary_tree_from_inorder_and_postorder_traversal
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: Construct.binary.tree.from.inorder.and.postorder.traversal
+Bundle-RequiredExecutionEnvironment: JavaSE-18
